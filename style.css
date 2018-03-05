@@ -1,0 +1,140 @@
+body {
+	background-image: url("attach/bac.jpg");
+	background-repeat: no-repeat;	
+	background-color: #171717;
+	background-attachment: fixed;
+	background-size: 100%;	
+	margin: 0 auto; 
+	}
+	
+.stopkagora {	
+	width: 100%;
+	margin: 0px; 
+	padding-top: 10px;
+	padding-bottom: 7px;
+	color: #000000;	
+	font-family: Arial;	 
+	font-size: 12px; 
+	position: fixed;
+	text-align: center;
+	background-color: rgba(20, 20, 20, 1);
+	border-bottom: 3px solid #2b2b2b;
+	top: 0px;
+	}
+
+
+.buttons_container {	
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+	width: auto;
+	padding: 0px;
+	border:0px;
+
+	}	
+	
+.buttons {
+	float:left;
+	padding-right: 10px;
+	padding-left: 10px;
+
+	}	
+.top {
+	width: auto;
+	height: 40px;
+	}
+
+a {
+	font-weight: bold;
+	color: #b0b0b0;
+	text-decoration: none;
+	}
+
+a img, img, img a {
+	border: none; 
+	}
+	
+a:hover {
+	font-weight: bold; 
+	color: #ffffff;	
+	text-decoration: none;
+	}	
+	
+img { 
+	float: right;
+	}
+
+img:hover {
+	-webkit-transform: scaleY(-1);
+	transform: scaleY(-1);
+	transition-duration: 1s;
+	}
+
+table, td { 
+	border: 0px solid black;
+	padding: 10px;
+	vertical-align: top;
+	margin-right: auto;
+	margin-left: 0;
+	margin-top: 0; 
+
+	}
+	
+ul {
+	padding: 0px;
+	}
+
+.con {
+	width:90px;	
+	}
+
+.content {	
+	width: 800px;	
+	margin: 30px auto 30px auto; 
+	overflow: hidden;  
+	padding: 10px; 
+	border: 1px solid #2b2b2b;	
+	background-color: rgba(20, 20, 20, 0.9);
+	color: #FFFFFF;	
+	font-family: Arial;		
+	line-height: 16px;	
+	text-align: left; 
+	font-size: 12px;
+			}
+
+.hr {	
+		width: 796px;
+		overflow: hidden;
+		border: 1px solid #2b2b2b;
+		margin: auto;
+	}
+
+.space1{	float: left; padding-left: 5px;}
+.space2{	width: 150px; margin-left: 0px; float: left; font-weight: bold; }
+	 
+
+#stopka {	
+	width: 800px;  
+	margin: 0 auto 30px auto; 
+	color: #FFFFFF;	
+	font-family: Arial;
+	line-height: 16px;	 
+	font-size: 10px; 
+	text-align: center;
+	}
+			
+#stopka1 {	
+	width: 100%;  
+	margin: 50px auto 0px auto; 
+	padding-top: 3px;
+	color: #000000;
+	border-top: 3px solid #202020;	
+	font-family: Arial;
+	line-height: 16px;	 
+	font-size: 12px; 
+	text-align: center;
+	background: #2b2b2b; 
+	}
+			
+
+
