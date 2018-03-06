@@ -1,10 +1,10 @@
-<!--Wiem, że można zrobić to lepiej...-->
+<!--Wiem, że można zrobić to lepiej... validator.w3.org only warnings-->
 <!doctype html>
 <html>
 <head>
 	<title>Łukasz Dziądziak - Curiculum vitae v.1.1</title>
 	<meta name="author" content="l" />
-	<meta name="date" content="2018-03-05T12:38:25+0100" />
+	<meta name="date" content="2018-03-05T18:53:41+0100" />
 	<meta name="copyright" content=""/>
 	<meta name="keywords" content=""/>
 	<meta name="description" content=""/>
@@ -30,29 +30,26 @@
  	<div class="top"></div>	
 	<div class="content">
 		<h2><strong>Motivation:</strong></h2>
-		<table>
-			<tr>
-				<td>It is this moment when i realize i want to do something else.<br/>
-						So far, for over 5 years i was automation specialist.<br/>
-						I have programmed many types of plc controllers (Siemens/Carel/Beckhoff/Telemecanique).<br/>
-						I made visualization for HMI panels. <br/>
-						I took care of the continuity of making the production lines traffic.<br/>
-						I proposed / introduced improvement.<br/>
-						I managed people and subcontracting companies.<br/><br/>
+		<div class="table_cont">
+			It is that moment when I realize I want to do something else.<br/>
+			So far, for over 5 years i was automation specialist.<br/>
+			I have programmed many types of plc controllers (Siemens/Carel/Beckhoff/Telemecanique).<br/>
+			I made visualization for HMI panels. <br/>
+			I took care of the continuity of making the production lines traffic.<br/>
+			I proposed / introduced improvement.<br/>
+			I managed people and subcontracting companies.<br/><br/>
 
-						But for now I want to improve my skills in computer programing.<br/>
-						It is faster and more flexibility. With every new project I do not have to be all the time onsite.<br/>
+			But for now I want to improve my skills in computer programing.<br/>
+			It is faster and more flexibility. With every new project I do not have to be all the time onsite.<br/>
 
-						My experience in computer programming is based on online courses.<br/>
+			My experience in computer programming is based on online courses.<br/>
 
 
-						I can learn very fast. <br/>
-						Part of my projects can be seen here: <a href="https://github.com/Ldziadziak" target="_blank"><strong>github.com/Ldziadziak</strong>.</a><br/><br/>
-						<a href="https://www.linkedin.com/in/lukaszdziadziak/" target="_blank"><strong>www.linkedin.com/in/lukaszdziadziak/</strong>	</a>					
-						
-				</td>
-			</tr>	 	
-		</table>
+			I can learn very fast. <br/><br/>
+			I solve programing problems from <a href="http://codility.com/" target="_blank">codility.com/</a> and <a href="https://www.codingame.com/" target="_blank">codingame.com/</a><br/>
+			Part of my projects can be seen here: <a href="https://github.com/Ldziadziak" target="_blank"><strong>github.com/Ldziadziak</strong>.</a><br/><br/>
+			<a href="https://www.linkedin.com/in/lukaszdziadziak/" target="_blank"><strong>linkedin.com/in/lukaszdziadziak/</strong>	</a>												 	
+		</div>
 	</div>	 	
 	<a name="dane"></a>
 	<div class="content">
@@ -61,7 +58,7 @@
 		 
 		<table>
 			<tr>
-				<td class="con">Name, surname:</td>
+				<td class="con">Name:</td>
 				<td><b>Łukasz Dziądziak</b></td>
 			</tr>
 			<tr>
@@ -142,6 +139,7 @@
 				</td>
 			</tr>		
 		</table>
+		<div class="hr"></div>	
 		<table>	 
 			<tr>
 				<td  class="con"><strong>Skills:</strong></td>

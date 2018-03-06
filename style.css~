@@ -5,6 +5,8 @@ body {
 	background-attachment: fixed;
 	background-size: 100%;	
 	margin: 0 auto; 
+	font-smooth: always;
+	letter-spacing: 0.5px;
 	}
 	
 .stopkagora {	
@@ -43,6 +45,16 @@ body {
 	width: auto;
 	height: 40px;
 	}
+.table_cont { 
+	border: 0px solid black;
+	padding: 10px;
+	vertical-align: top;
+	margin-right: auto;
+	margin-left: 0;
+	margin-top: 0; 
+
+	}
+	
 
 a {
 	font-weight: bold;
@@ -72,7 +84,9 @@ img:hover {
 
 table, td { 
 	border: 0px solid black;
-	padding: 10px;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 10px;
 	vertical-align: top;
 	margin-right: auto;
 	margin-left: 0;
@@ -81,8 +95,7 @@ table, td {
 	}
 	
 ul {
-margin 0px;
-padding: 0px;
+	padding: 0px;
 	}
 
 .con {
